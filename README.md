@@ -1,6 +1,6 @@
 # Wedding Website
 A beautiful, feature rich, device friendly wedding website.  
-_See [vasudha_chakresh](http://vc-wedding.github.io) for a demo. Use invite code sent to you to RSVP._
+_See [vasudha_chakresh](https://chakreshiitgn.github.io/vc-wedding-website/) for a demo. Use invite code sent to you to RSVP._
 
 # Highlights
 1. Slick and fully __responsive__ design.
